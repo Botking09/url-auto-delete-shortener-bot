@@ -12,8 +12,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
+API_ID = int(environ.get('API_ID', '27514811'))
+API_HASH = environ.get('API_HASH', '88b650f1272ab3d38474b18d3bcc66a8')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6912914776:AAEQNnjMBrM8-09LI6S_vtiOW29HvdUxuiU")
 
 # Bot settings
@@ -79,7 +79,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = ""
+DOWNLOAD_TEXT_URL = "https://t.me/moviiiieeeehub/3"
 
    # Custom Caption Under Button #
 
